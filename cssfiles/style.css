@@ -1,0 +1,11 @@
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+#today-c {
+  color: gray;
+  font-weight: bold;
+  font-size: 52px;
+}
+
